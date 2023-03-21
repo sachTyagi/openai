@@ -1,5 +1,5 @@
 import { OpenAI } from "./OpenAI.js"
-const openAI = new OpenAI('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')
+const openAI = new OpenAI('test-key')
 const topic = 'NodeJs'
 const model = 'text-davinci-003'
 
